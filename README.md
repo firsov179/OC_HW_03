@@ -52,7 +52,7 @@
 
 1. [Код клиента-клумбы](https://github.com/fodof91/OC_HW_03/blob/master/6-7/client_flowerbed.c)
 2. [Код клиента-садовника](https://github.com/fodof91/OC_HW_03/blob/master/6-7/client_gardener.c)
-3. [Код клиента-принтера](https://github.com/fodof91/OC_HW_03/blob/master/6-7/client_зкштеук.c)
+3. [Код клиента-принтера](https://github.com/fodof91/OC_HW_03/blob/master/6-7/client_printer.c)
 3. [Код сервера](https://github.com/fodof91/OC_HW_03/blob/master/6-7/server.c)
 4. [Код скрипта запуска](https://github.com/fodof91/OC_HW_03/blob/master/6-7/run.sh)
 5. [Код Makefile](https://github.com/fodof91/OC_HW_03/blob/master/4-5/Makefile)
