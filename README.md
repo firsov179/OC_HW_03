@@ -61,3 +61,15 @@
 Взаимодействие с сервером аналогично остальным серверам.
 
 Добавлено автоматическое завершение через 15 дней
+
+###  8:
+
+1. [Код клиента-клумбы](https://github.com/fodof91/OC_HW_03/blob/master/8/client_flowerbed.c)
+2. [Код клиента-садовника](https://github.com/fodof91/OC_HW_03/blob/master/8/client_gardener.c)
+3. [Код клиента-принтера](https://github.com/fodof91/OC_HW_03/blob/master/8/client_printer.c)
+3. [Код сервера](https://github.com/fodof91/OC_HW_03/blob/master/8/server.c)
+4. [Код скрипта запуска](https://github.com/fodof91/OC_HW_03/blob/master/8/run.sh)
+5. [Код Makefile](https://github.com/fodof91/OC_HW_03/blob/master/8/Makefile)
+
+Добавлена возможность подключать несколько принтеров. 
+Теперь серверу передается второй параметр - колличество принтеров. Для каждого из них все абсолютно так, как было для 1 в пункте 6-7.
